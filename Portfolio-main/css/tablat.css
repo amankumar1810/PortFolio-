@@ -1,0 +1,102 @@
+.navbar{
+    height: 100px;
+    display: inline-grid;
+    justify-content: center;
+    align-items: center;
+}
+.name {
+    margin: auto;
+}
+.content {
+    width: 20rem; 
+}
+.content ul {
+    margin: auto;
+}
+.content ul li {
+    padding: 0px 1.4em;
+    font-size: large;
+}
+ 
+.box1 { 
+    width: 85vw;
+    height: 60vh; 
+} 
+.box1 .subbox { 
+    height: 12vh;
+    width: 75vw; 
+}
+
+#secA {
+    width: 75vw;
+    height: 100px; 
+}
+.secB { 
+    display: grid; 
+    height: 665px;
+}
+
+.secB img {
+    width: 250px;
+    /* height: 270px;  */
+    margin: auto;
+}
+.secB .about { 
+    height: 400px; 
+    width: 95vw;
+}
+.proj { 
+    height: 1250px; 
+}
+#secP { 
+    height: 100px; 
+}
+.pj {
+    display: grid; 
+}
+.project {
+    width: 80vw;
+    height: 340px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.project .Pdiscription {
+    font-family: 'Trebuchet MS', sans-serif;
+    align-self: center;
+    font-size: large;
+}
+#secM { 
+    height: 100px; 
+}
+
+.more {
+    height: 1225px;
+}
+#secC { 
+    height: 100px; 
+}
+#secC p{ 
+    height: 15px;
+}
+.contact{
+    width: 80vw;
+    height: 300px; 
+    border-radius: 15px;
+    margin: 15px;
+}
+.secc img {
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+
+.secc{
+    height: 970px;
+} 
+.end{
+    height: 65px;
+}
+.circle {
+    width: 40px;
+    height: 40px; 
+}

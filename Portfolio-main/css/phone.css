@@ -1,0 +1,15 @@
+.container {
+    width: 350px;
+/*     height: 500px; */
+}
+.container .heading {
+    margin-top: 55px;
+    width: 250px;
+    height: 100px; 
+}
+.container img{
+    width: 150px;
+}
+.container h1 { 
+    font-size: xx-large; 
+}

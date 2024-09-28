@@ -1,0 +1,46 @@
+.project img {
+    width: 48vw;
+}
+.content ul li {
+    padding: 0px 0.5em;
+    font-size: small;
+}
+.content {
+    width: 18rem;
+}
+.secB {
+    display: grid;
+    height: 975px;
+}
+.secB .about {
+    height: 425px;
+    width: 95vw;
+}
+.secc img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+.project .Pname {
+    font-size: large;
+    font-family: math;
+    font-weight: 600;
+    align-self: center;
+}
+.project .Pdiscription {
+    font-family: 'Trebuchet MS', sans-serif;
+    align-self: center;
+    font-size: small;
+}
+.end{
+    height: 65px;
+}
+.circle {
+    width: 30px;
+    height: 30px;
+}
+.foot{
+    height: 60px;
+    font-size: small;
+    text-align: center;
+}
